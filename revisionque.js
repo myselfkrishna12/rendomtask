@@ -1,3 +1,7 @@
+/////////////////////QUE1///////////////
+// WAP to find the reverse string without using existing methods
+
+
 // function reverse(str)
 // {
 //     let r="";
@@ -11,7 +15,8 @@
 // console.log(reverse("BHOPAL"));
 
 
-
+////////////////////////////QUE2//////////////
+// WAP to find unique value from an array suppose , let arr =[1,2,4,5,1,5,4,1,1,2]
 
 
 // let arr =[1,2,4,5,1,5,4,1,1,2]
@@ -50,7 +55,9 @@
 
 
 
+////////////////QUE3///////////
 
+// WAP to sort a given array using loop.
 
 
 // function sort(array){
@@ -103,6 +110,10 @@
 // }
 // console.log(sorted(arr))
 
+
+  /////////////////QUE4///////////
+
+///////WAP to find factorial.
 
 // let n=7;
 // function findFact(n)
